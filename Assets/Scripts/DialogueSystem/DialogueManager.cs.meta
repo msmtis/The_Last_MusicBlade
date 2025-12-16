@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d33014db6a453194dbd7e5a3672c9f20
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Dialogue: {instanceID: 0}
+  - DialogueCanvas: {instanceID: 0}
+  - image: {instanceID: 0}
+  - charactername: {instanceID: 0}
+  - dialogueText: {instanceID: 0}
+  - dialogueBox: {instanceID: 0}
+  - playerMovement: {instanceID: 0}
+  - characterSprite: {instanceID: 0}
+  - guideSprite: {instanceID: 0}
+  - enemySprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
