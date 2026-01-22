@@ -54,10 +54,36 @@ public class EnemyManager : MonoBehaviour
         }
        
     }
-    private void attackPlayer() {
+
+    void LookAtPlayerFixedY()
+    {
+        if (player == null)
+            return;
+
+        // Calcola la direzione verso il player
+        Vector3 direction = player.position - transform.position;
+
         
+        direction.y = 0;
+
+        // Se la direzione è valida
+        if (direction.sqrMagnitude > 0.001f)
+        {
+            // Calcola la rotazione desiderata
+            Quaternion targetRotation = Quaternion.LookRotation(direction);
+
+            // Rotazione fluida verso il target
+            transform.rotation = Quaternion.Slerp(transform.rotation, targetRotation, 1 * Time.deltaTime);
+        }
+    }
+
+
+
+    private void attackPlayer() {
+
         //make sure the enemy stopping to move
-        transform.LookAt(player);
+        // transform.LookAt(player);
+        LookAtPlayerFixedY();
         agent.SetDestination(transform.position);
        
 

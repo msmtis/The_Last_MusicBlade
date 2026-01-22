@@ -114,7 +114,7 @@ private void TryAddSprite(string key, Sprite sprite)
  
        
 
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space) && !FightManager.Instance.cutSceneEnded)
 
         {
 

@@ -272,8 +272,8 @@ public class GeneralPlayerMovement : MonoBehaviour
 
     public void onJump(InputAction.CallbackContext context)
     {
-        
 
+        Debug.Log("GROUNDED "+characterController.isGrounded);
         if (context.performed && characterController.isGrounded && !isDashing)
         {
             Debug.Log("IS JUMPING");
