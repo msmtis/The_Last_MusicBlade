@@ -45,14 +45,6 @@ The idea is to create more than just a game: The Last MusicBlade is meant to be 
  - modifies gameplay (e.g., increases speed, reduces damage, adds area effects)
  - alters the **real-time sound track**, overlaying or replacing musical elements.
 
-- 🎖️**Audio rewards** 
- Upon winning, players earn genre-specific **music tracks**.
-  - These can be uploaded to the game's **digital audio workstation (DAW)**, where they will **compose their own songs**, apply effects and mix tracks.
- This encourages **creative composition** and introduces basic production concepts.
-
-![DigitalAudioWorkstation](READMEimg/DAW.png)
-
----
 ## 🎯 Project goals
 
 - ✅ Make **music education fun and accessible** through interactivity
