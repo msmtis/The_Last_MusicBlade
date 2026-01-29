@@ -57,18 +57,18 @@ The idea is to create more than just a game: The Last MusicBlade is meant to be 
 1. Download [**Unity Hub**](https://unity.com/download) and install the Unity Editor version `6000.0.30f1`.
 
 2. Clone the repository.
-3. 
-4. Open Unity Hub, click on `Add` and select the folder of the cloned project.  
+   
+3. Open Unity Hub, click on `Add` and select the folder of the cloned project.  
    If Unity does not automatically detect the correct version, click on the Unity version label next to the project and select `6000.0.30f1` from the list of installed editors.
 
-5. After opening the project in Unity, Go to `Window` > `Package Manager` and ensure that the following packages are installed(need to be listed under the **In Project** tab).
+4. After opening the project in Unity, Go to `Window` > `Package Manager` and ensure that the following packages are installed(need to be listed under the **In Project** tab).
    1. 🤖 **AI Navigation 2.0.5** [👉🔍](https://docs.unity3d.com/Packages/com.unity.ai.navigation@2.0/manual/index.html)
    2. 📹 **Cinemachine 2.10.3** [👉🔍](https://docs.unity3d.com/Packages/com.unity.cinemachine@2.10/manual/index.html)  
 
    3. ✨ **Post Processing 3.4.0**[👉🔍](https://docs.unity3d.com/Manual/PostProcessingOverview.html)
 
-6. If the packages are not installed go in the **Package Manager**, click on the `+` button in the top left and select `Add package from Unity Registry` and search for each of the packages and chose the correct version.
-7. At this point you should be able to use the system directly from the editor.
+5. If the packages are not installed go in the **Package Manager**, click on the `+` button in the top left and select `Add package from Unity Registry` and search for each of the packages and chose the correct version.
+6. At this point you should be able to use the system directly from the editor.
 ---
 
 
