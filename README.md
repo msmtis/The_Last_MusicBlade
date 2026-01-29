@@ -80,9 +80,7 @@ The idea is to create more than just a game: The Last MusicBlade is meant to be 
 5. If the packages are not installed go in the **Package Manager**, click on the `+` button in the top left and select `Add package from Unity Registry` and search for each of the packages and chose the correct version.
 6. At this point you should be able to use the system directly from the editor.
 ---
-## 👨‍💻 Author
 
-🕹️ <img src="https://avatars.githubusercontent.com/u/72736111?v=4" width="40" style="vertical-align: middle; margin-left: 0px; border-radius: 50%; border: 3px solid #8A2BE2;"/> <span style="font-size: 18px; font-weight: bold;">[**Daniele Salerno**](https://github.com/DanieleSalerno)</span> 
 
 
 
