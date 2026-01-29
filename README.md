@@ -59,7 +59,7 @@ The idea is to create more than just a game: The Last MusicBlade is meant to be 
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/musimathicslab/TheLastMusicBlade.git
+   git clone https://github.com/msmtis/The_Last_MusicBlade.git
 3. Open Unity Hub, click on `Add` and select the folder of the cloned project.  
    If Unity does not automatically detect the correct version, click on the Unity version label next to the project and select `6000.0.30f1` from the list of installed editors.
 
