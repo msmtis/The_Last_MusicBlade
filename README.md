@@ -2,8 +2,6 @@
 *A LowPoly-style musical adventure in which you can face different musical “Bosses” and discover the different genres to which they belong.*
 
 ![Screenshot](READMEimg/mainmenu.gif)
-![Screenshot](https://github.com/msmtis/The_Last_MusicBlade/edit/main/README.md)
-
 ---
 
 ## 🛠️ Technologies used
